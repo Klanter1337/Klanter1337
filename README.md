@@ -1,5 +1,6 @@
 # Hi everyone :wave:, I'm Klanter
 
+![](https://komarev.com/ghpvc/?username=KlanterV&label=PROFILE+VIEWS)
 
 **Programming Languages i know**
 
