@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=KlanterV&label=PROFILE+VIEWS)
 
-**Programming Languages i know**
+**I know**
 
 <img title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />|<img alt="JS" title="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png">|<img title="ruby" alt="ruby" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/ruby/ruby.png"> |<img title="typescript" alt="typescript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/typescript/typescript.png">
 |--|--|--|--|
