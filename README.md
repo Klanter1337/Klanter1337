@@ -1,5 +1,5 @@
 # Hi everyone :wave:, I'm Klanter
-#( TR: BOTÇU DEĞİLİM )
+# ( TR: BOTÇU DEĞİLİM )
 
 ![](https://komarev.com/ghpvc/?username=KlanterV&label=PROFILE+VIEWS)
 
