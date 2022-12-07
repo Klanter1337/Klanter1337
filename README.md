@@ -10,7 +10,7 @@
 
 ![](https://komarev.com/ghpvc/?username=KlanterV&label=Profile+Visits)
 	
-## <picture><img src = "https://emojipedia-us.s3.amazonaws.com/source/noto-emoji-animations/344/glowing-star_1f31f.gif" width = 50px></picture> **About me**
+## <picture><img src = "https://s9.gifyu.com/images/glowing-star_1f31f.gif" width = 50px></picture> **About me**
 
 <br>
 
