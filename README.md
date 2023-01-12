@@ -101,31 +101,23 @@
 <div align='left'>
 
 <ul>
-
 <li>
-<a href="https://instagram.com/klanter1337" target="_blank">
-<img src="https://img.shields.io/badge/instagram:  klanter1337-%2300acee.svg?color=4c68d7&style=for-the-badge&logo=instagram&logoColor=white" alt=instagram style="margin-bottom: 5px;"/>
+<a href="https://youtube.com/@klanter" target="_blank">
+<img src="https://img.shields.io/badge/youtube:  klanter-%2300acee.svg?color=c4302b&style=for-the-badge&logo=youtube&logoColor=white" alt=youtube style="margin-bottom: 5px;"/>
 </a>
 </li>
 <br>
 <li>
 <a href="https://sptfy.com/klanter" target="_blank">
-<img src="https://img.shields.io/badge/spotify:  klanter1337-%2300acee.svg?color=1DB954&style=for-the-badge&logo=spotify&logoColor=white" alt=spotify style="margin-bottom: 5px;"/>
+<img src="https://img.shields.io/badge/spotify:  klanter-%2300acee.svg?color=1DB954&style=for-the-badge&logo=spotify&logoColor=white" alt=spotify style="margin-bottom: 5px;"/>
 </a>
 </li>
 <br>
 <li>
-<a href="https://www.reddit.com/u/klanterV" target="_blank">
-<img src="https://img.shields.io/badge/reddit:  klanterV-%2300acee.svg?color=ff4500&style=for-the-badge&logo=instagram&logoColor=white" alt=reddit style="margin-bottom: 5px;"/>
+<a href="https://instagram.com/klanter1337" target="_blank">
+<img src="https://img.shields.io/badge/instagram:  klanter1337-%2300acee.svg?color=4c68d7&style=for-the-badge&logo=instagram&logoColor=white" alt=instagram style="margin-bottom: 5px;"/>
 </a>
 </li>
-<br>
-<li>
-<a href="https://discord.com/users/919527640006795284" target="_blank">
-<img src="https://img.shields.io/badge/discord:  klanter1337-%2300acee.svg?color=7289d9&style=for-the-badge&logo=discord&logoColor=white" alt=discord style="margin-bottom: 5px;"/>
-</a>
-</li>
-  
 </ul>
 </div>
 
