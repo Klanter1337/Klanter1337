@@ -95,31 +95,6 @@
 <br>
 <br>
 
-## <b> My Social Connections..!</b>
-
-<br>
-<div align='left'>
-
-<ul>
-<li>
-<a href="https://youtube.com/@klanter" target="_blank">
-<img src="https://img.shields.io/badge/youtube:  klanter-%2300acee.svg?color=c4302b&style=for-the-badge&logo=youtube&logoColor=white" alt=youtube style="margin-bottom: 5px;"/>
-</a>
-</li>
-<br>
-<li>
-<a href="https://sptfy.com/klanter" target="_blank">
-<img src="https://img.shields.io/badge/spotify:  klanter-%2300acee.svg?color=1DB954&style=for-the-badge&logo=spotify&logoColor=white" alt=spotify style="margin-bottom: 5px;"/>
-</a>
-</li>
-<br>
-<li>
-<a href="https://instagram.com/klanter1337" target="_blank">
-<img src="https://img.shields.io/badge/instagram:  klanter1337-%2300acee.svg?color=4c68d7&style=for-the-badge&logo=instagram&logoColor=white" alt=instagram style="margin-bottom: 5px;"/>
-</a>
-</li>
-</ul>
-</div>
 
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
